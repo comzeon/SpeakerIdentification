@@ -1,1 +1,1 @@
-![架构图][image.png]
+![架构图](image.png)
